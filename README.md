@@ -1,7 +1,7 @@
 
 ##
 
-![Header](https://user-images.githubusercontent.com/68931081/171228675-d2f7048c-d850-43f2-87b0-61047df0c417.png)
+![github-header-image](https://user-images.githubusercontent.com/68931081/171228858-eab6ab7e-7ade-4abb-a14e-f24460ec3061.png)
 <div>
   <a href="https://github.com/jonasSalviano">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jonasSalviano&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
