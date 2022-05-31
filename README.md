@@ -1,7 +1,7 @@
 
 ##
 
-<img align="center" alt="Jonas-PHP" height="50" width="50" src="https://img.icons8.com/windows/50/000000/new-world.png">
+![Header](https://user-images.githubusercontent.com/68931081/171228675-d2f7048c-d850-43f2-87b0-61047df0c417.png)
 <div>
   <a href="https://github.com/jonasSalviano">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jonasSalviano&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
