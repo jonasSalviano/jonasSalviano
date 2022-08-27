@@ -6,8 +6,8 @@
   <a href="https://github.com/jonasSalviano">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jonasSalviano&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasSalviano&layout=compact&langs_count=7&theme=midnight-purple"/>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=jonasSalviano&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=jonasSalviano)](https://github.com/ryo-ma/github-profile-trophy)
   <div style="display: inline_block"><br>
     <img align="center" alt="Jonas-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Jonas-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
