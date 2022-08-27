@@ -1,13 +1,17 @@
 
 ##
 
-![github-header-image](https://user-images.githubusercontent.com/68931081/171228858-eab6ab7e-7ade-4abb-a14e-f24460ec3061.png)
 <div>
   <a href="https://github.com/jonasSalviano">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jonasSalviano&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasSalviano&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=jonasSalviano)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonasSalviano" alt="jonassalviano" /></a> </p>
+</p>
+
+</div>
   <div style="display: inline_block"><br>
     <img align="center" alt="Jonas-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Jonas-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
