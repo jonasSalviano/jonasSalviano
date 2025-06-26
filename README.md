@@ -1,6 +1,6 @@
 
 ##
-<h1 align="center">Hi 👋, I'm Jonas Salviano</h1>
+<h1 align="center">I'm Jonas Salviano</h1>
 <h3 align="center">Fullstack developer from Brazil</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jonassalviano&label=Profile%20views&color=0e75b6&style=flat" alt="jonassalviano" /> </p>
@@ -18,7 +18,9 @@
   <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg" alt="adonis" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="php" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
 </p>
 
 
