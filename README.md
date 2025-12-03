@@ -25,12 +25,6 @@
 </p>
 
 
-<div>
-  <a href="https://github.com/jonasSalviano">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jonasSalviano&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasSalviano&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=jonassalviano&theme=midnight-purple" alt="jonassalviano"/>
-</div>
 
 <div>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonasSalviano&theme=onedark" alt="jonassalviano" /></a> </p>
